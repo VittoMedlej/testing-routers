@@ -1,0 +1,27 @@
+{
+  "name": "amazon",
+  "version": "1.0.0",
+  "description": "amaz",
+  "main": "amazon.js",
+  "scripts": {
+    "start": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "amazon-rep"
+  },
+  "author": "vitto",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "@vaadin/router": "^1.7.4",
+    "bootstrap": "^4.6.0",
+    "express": "^4.17.1",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "webpack": "^5.36.2"
+  }
+}
